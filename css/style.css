@@ -1,0 +1,369 @@
+*{
+    
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+#caixaPrincipal{
+    padding: 19px;
+    background-size: 650px;
+    background-repeat:no-repeat;
+    background-image:  url(../imagens/al.jpg);
+    border-color: transparent;
+    width: 1200px;
+    height: 200px;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    
+ 
+}
+
+#titulotop{
+    padding-top: 30px;
+    font-family: "arial black";
+    color: orange;
+    font-size: 20px;
+    width: 500px;
+    background-color: white;
+    margin-top: auto;
+    margin-left: auto; 
+
+}
+
+.titulo2{
+
+    font-family: "arial black";
+    font-size: 20px;
+    color: black;
+    padding-top: 10px;
+    width: 200px;
+    height: 10px;
+    background-color: transparent;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 640px;
+
+ }
+
+#menu ul{
+    font-size: 20px;
+    background-color: transparent;
+    font-family: "arial black";
+    position: fixed;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+
+    
+    
+
+
+
+            }
+        
+#menu ul li{
+     list-style: none;
+    display:flex;
+    border-style:solid;
+    border-color: black;
+    background-color: rgba(100, 100, 100, 0.3);
+
+            }
+
+ #menu ul li a{
+     padding: 10px 100px;
+     color: black;
+     text-decoration: none;
+     display: table-column;
+                
+}
+
+#menu ul li a:hover{
+    color: blue;
+    
+    
+
+}
+
+#cameraimagem{
+    background-repeat:no-repeat;
+    background-image:  url(../imagens/camera.jpg);
+    background-position: top;
+    background-color: transparent;
+    width: 980px;
+    height: 550px;
+    margin-right: auto;
+    margin-left: auto; 
+ 
+   
+}
+
+
+.tituloimagem{
+    font-family:fantasy;  
+    color:darkslategray;
+    text-align: center;
+    font-size: 35px;
+    width: 660px;
+    height: 30px; 
+    margin-right: auto;
+    margin-left: auto;
+    background-color: transparent;
+    padding: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    background-color: rgba(255, 235, 255, 0.4);
+    
+    }
+    
+    #textoimagem{
+    text-align: center;
+    font-family:inherit;
+    font-size: 30px;
+    color:black;
+    font-style: italic;
+    width: 980px;
+    height: 65px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: transparent;
+    margin-top: 400px;
+    background-color: rgba(192, 192, 192, 0.5);
+        
+}
+
+.titulo3{
+    color:darkgoldenrod;
+    font-family: "arial black";
+    border-bottom-style:groove;
+    font-size: 30px;
+    padding:50px;
+    width: 350px;
+    height: 10px;
+    background-color: transparent;
+    margin-bottom: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.texto{
+    font-family: verdana;
+    font-style: normal;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    width: 620px;
+    height: 10px;
+    background-color: transparent;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left:  10px;
+  
+   
+}
+
+#imagem{
+    background-repeat:no-repeat;
+    background-image:  url(../imagens/imagemcel.jpg);
+    width: 600px;
+    height: 520px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 830px;
+    padding-bottom: 20px; 
+    
+
+}
+
+#imagem2{
+    background-repeat:no-repeat;
+    background-image:  url(../imagens/camera1.png);
+    width: 1000px;
+    height: 510px;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.titulo6{
+    font-family: "arial black";
+    color: black;
+    font-size: 30px;
+    padding: 50px;
+    width: 750px;
+    text-align: center;
+    background-color: transparent;
+    margin-right: auto;
+    margin-left: auto;
+ }
+
+#imagem3{
+
+    background-repeat:no-repeat;
+    background-image:  url(../imagens/Foto%2003.jpg);
+    width: 660px;
+    height: 400px;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 600px;
+    
+}
+
+
+#imagem4{
+    background-repeat:no-repeat;
+    background-image:  url(../imagens/Foto%2004.jpg);
+    width: 800px;
+    height: 630px;
+    background-color: transparent;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 820px;
+    padding-top: 10px;
+
+}
+
+#imagem5{
+    background-repeat:no-repeat;
+    background-image:  url(../imagens/Foto%2005.jpg);
+    width: 700px;
+    height: 340px;
+    background-color: transparent;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 600px;
+    padding-right: 10px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+
+}
+
+.texto2{
+    font-family: verdana;
+    font-style:normal;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    width: 720px;
+    height: 30px;
+    background-color: transparent;
+    margin-right: auto;
+    margin-left: auto;
+
+  
+   
+}
+
+#imagem6{
+    background-repeat:no-repeat;
+    background-image:  url(../imagens/Foto%2006.jpg);
+    width: 800px;
+    height: 440px;
+    background-color: transparent;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 600px;
+    margin-top: 40px;
+
+}
+
+
+#imagemfundo{
+    background-size: cover;
+    background-position: bottom;
+    background-image:  url(../imagens/Foto%2010.jpg);
+    width: 1200px;
+    height: 740px;
+    background-color: transparent;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 60px;
+   
+
+}
+
+#tituloimg{
+    font-family:fantasy;  
+    color: darkslategray;
+    text-align: center;
+    font-size: 30px;
+    width: 1200px;
+    height: 70px; 
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    background-color: transparent;
+    padding: 0px;
+    padding-bottom: 10px;
+    background-color: rgba(0, 0, 0, 0.9);
+    
+    }
+
+#textoimg{
+    font-family:fantasy;  
+    color: cornsilk;
+    text-align: center;
+    font-size: 30px;
+    width: 1150px;
+    height: 620px; 
+    margin-right: auto;
+    margin-left: auto;
+    background-color: transparent;
+    padding: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+    }
+
+#contato{
+    
+    font-family:fantasy;  
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    width: 80%;
+    height: 80px; 
+    margin-right: auto;
+    margin-left: auto;
+    background-color: transparent;
+    padding: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    background-color: rgba(0, 0, 0, 0.1);  
+}
+
+#criadores{
+    
+    font-family:fantasy;  
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    width: 80%;
+    height: 250px; 
+    margin-right: auto;
+    margin-left: auto;
+    background-color: transparent;
+    background-color: rgba(0, 0, 0, 0.1);  
+}
+
+
+#nomes{
+    
+    font-family:"arial black";  
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    width: 80%;
+    height: 190px; 
+    margin-right: auto;
+    margin-left: auto;
+    background-color: transparent;
+    background-color: rgba(,0, 0, 1.9);  
+}
